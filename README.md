@@ -3,7 +3,7 @@
 This repository solves the Ant-Colony Optimization Problem using the nature-inspired Ant-Colony Optimization Problem. 
 
 
-<b>HYPERPARAMETERS</b>:
+<h3><b>HYPERPARAMETERS</b></h3>
 
-No of Itearations
-Population Size
+ No of Itearations
+ Population Size
