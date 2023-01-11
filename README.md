@@ -1,12 +1,9 @@
-# ACO-GA
+# ANT COLONY OPTIMIZATION 
 
-ANT COLONY OPTIMIZATION FOR SOLVING TSP
-
-WE USE ROULETTE WHEEL SELECTION TO CHOOSE A PATH 
-
+This repository solves the Ant-Colony Optimization Problem using the nature-inspired Ant-Colony Optimization Problem. 
 
 
 HYPERPARAMETERS:
 
-NO OF ITERATIONS
-POPULATION SIZE
+No of Itearations
+Population Size
